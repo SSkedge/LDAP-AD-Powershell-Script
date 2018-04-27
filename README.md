@@ -1,5 +1,5 @@
 # LDAP-AD-Powershell-Script
 LDAP Active Directory Powershell Script
 
-###To Run: 
+### To Run: 
 ./LDAP-AD.ps1
